@@ -9,14 +9,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I write too, both academic and technical articles
 
-<!--
-**Axuby/Axuby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
 
--->
-# [![waylon walker header](https://raw.githubusercontent.com/Axuby/Axuby/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
@@ -29,7 +26,7 @@
 <a href="https://www.linkedin.com/in/azubuine-samuel-b936b015b"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-Hey there 👋,
+<!-- Hey there 👋,
 
 I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
 
@@ -38,7 +35,7 @@ I create blog posts and open source packages mainly about python and data engine
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
- 
+  -->
 ### Boy Scout Rule
 
  ---

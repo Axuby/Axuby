@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently open to new roles and gigs ...
+- 🔭 I’m currently open to new and challenging projects ...
 - 🌱 I’m currently learning Solidity and Smart-Contracts development
-- 👯 I’m looking to collaborate on on innovative ideas and challenging projects
+- 👯 I’m looking to collaborate on innovative ideas and challenging projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about the MERN stack 
 - 📫 How to reach me: azubuinesamuel@gmail.com
@@ -15,14 +15,10 @@
 
 
 
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
 
 <p align='center'>
 
 <a href="https://twitter.com/_Axuby"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/azubuine-samuel-b936b015b"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
@@ -118,14 +114,4 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
  <p/>
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
-</div>
-
-## Stargazers
-
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
 

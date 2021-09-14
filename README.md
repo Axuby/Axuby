@@ -1,6 +1,6 @@
-##### Hi 👋, I'm Azubuine Samuel or simply Axuby
+##### Hi  there👋, I'm Azubuine Samuel or simply Axuby
 
-- 🌱 I’m currently advancing my Backend development knowledging and in the Web3.0 space
+- 🌱 I’m currently advancing my Backend development knowledge and getting started for the Web3.0 space
  - 🔭 I’m currently open to new, innovative and challenging projects ...
 - 💬 Ask me about the MERN stack 
 - 📫 How to reach me: azubuinesamuel@gmail.com

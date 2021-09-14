@@ -1,9 +1,7 @@
-### Hi there 👋
+##### Hi 👋, I'm Azubuine Samuel or simply Axuby
 
-- 🔭 I’m currently open to new and challenging projects ...
-- 🌱 I’m currently learning Solidity and Smart-Contracts development
-- 👯 I’m looking to collaborate on innovative ideas and challenging projects
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently advancing my Backend development knowledging and in the Web3.0 space
+ - 🔭 I’m currently open to new, innovative and challenging projects ...
 - 💬 Ask me about the MERN stack 
 - 📫 How to reach me: azubuinesamuel@gmail.com
 - 😄 Pronouns: He/Him
@@ -19,6 +17,9 @@
 <p align='center'>
 
 <a href="https://twitter.com/_Axuby"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
 <a href="https://www.linkedin.com/in/azubuine-samuel-b936b015b"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 

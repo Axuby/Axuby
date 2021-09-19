@@ -34,8 +34,6 @@ I create blog posts and open source packages mainly about python and data engine
  ---
 
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
-
 <!-- [Latest Post 👉](https://waylonwalker.com/latest)
 
 <details>
